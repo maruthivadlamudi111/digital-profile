@@ -17,10 +17,9 @@ Item 3
 * Item 3b
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://cdn.britannica.com/79/20279-050-ECDF21A7/mountain-gorilla-Virunga-National-Park-Democratic-Republic.jpg)
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
 
 
 
